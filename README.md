@@ -1,1 +1,4 @@
-# FSDMSE2
+node_modules/
+.env
+build/
+.DS_Store
